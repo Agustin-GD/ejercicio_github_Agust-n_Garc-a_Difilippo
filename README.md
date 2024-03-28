@@ -1,0 +1,2 @@
+Nombre del proyecto: NO Name
+Un proyecto de un juego serio en el que se controla un humano y todas sus etapas de desarrollo, durante las cuales se tomarán desiciones importantes como el género y otras cosas
